@@ -17,6 +17,7 @@ header{
     height: 70px;
 }
 
+
 nav{
     width: 70%;
     height: 70px;
@@ -46,6 +47,7 @@ span{
     text-align: center;
     font-size: 18px;
     margin: 10px;
+    color: var(--color4);
 }
 .ancho{
     width: 80%;
