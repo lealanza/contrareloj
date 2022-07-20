@@ -110,12 +110,10 @@ span{
     font-size: 1.5rem;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 2px;
-    width: 7.5rem;
-    margin: 5;
+    margin: 10px;
     background-color: var(--color2);
     color: var(--color3);
-    padding: 5px;
+    padding: 6px;
     text-decoration: none;
     border-radius: 10px;
     text-align: center;
