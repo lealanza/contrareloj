@@ -242,10 +242,20 @@ span{
 }
 .contacto{
     display: flex;
-}
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;}
 
 .tituloConctacto{
     font-size: 20px;
+}
+.cardsContact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .cardsContacto{
     display: flex;
