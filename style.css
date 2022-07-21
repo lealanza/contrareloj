@@ -237,6 +237,11 @@ span {
     transition: linear 0.5s ;
         
 }
+.cardsDetails>img:hover {
+    transform: rotateY(360deg);
+    transition-duration: 3s;
+
+}
 .plan {
     display: flex;
     flex-direction: column;
